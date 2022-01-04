@@ -1,8 +1,8 @@
 :root {
-    /* Uncomment the code below and change the color schem if desired */
-    /* --primary: rgba(43, 91, 186, 0.6);
+     /*Uncomment the code below and change the color schem if desired */
+    --primary: rgba(43, 91, 186, 0.6);
     --light: rgb(255,255,255);
-    --greyish: rgb(116 121 129 / 80%); */
+    --greyish: rgb(116 121 129 / 80%);
 }
 
 html, body {
